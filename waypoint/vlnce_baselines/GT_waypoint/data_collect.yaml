@@ -1,0 +1,50 @@
+BASE_TASK_CONFIG_PATH: vlnce_baselines/GT_waypoint/data_collect_task.yaml
+ENV_NAME: DataCollectEnv
+SIMULATOR_GPU_IDS: [0]
+TORCH_GPU_ID: 0
+TORCH_GPU_IDS: [0]
+TRAINER_NAME: data_collect
+GPU_NUMBERS: 1
+NUM_ENVIRONMENTS: 1
+TENSORBOARD_DIR: logs/tensorboard_dirs/
+CHECKPOINT_FOLDER: logs/checkpoints/
+EVAL_CKPT_PATH_DIR: logs/checkpoints/
+RESULTS_DIR: logs/eval_results/
+RANDOM_ALLOC_SCENE: False
+WP_CKPT: ./waypoint_prediction/checkpoints/check_val_best_avg_wayscore
+
+EVAL:
+  USE_CKPT_CONFIG: False
+  SPLIT: val_unseen
+  EPISODE_COUNT: -1
+
+
+
+DATA_COLLECT:
+  connectivity_graph_path: vlnce_baselines/GT_waypoint/connect_graph_after_node_delete
+  loc_noise: 3.0    
+  connect_dict_path: vlnce_baselines/GT_waypoint/connect_with_nav/total
+
+IL:
+  epochs: 50
+  batch_size: 16
+  schedule_ratio: 0.50
+  decay_time: 20
+  max_traj_len: 20
+
+MODEL:
+  policy_name: PolicyViewSelectionVLNBERT
+  NUM_ANGLES: 12
+  spatial_output: False
+  RGB_ENCODER:
+    encode_size: 2048
+    output_size: 512
+  DEPTH_ENCODER:
+    encode_size: 128
+    output_size: 256
+    ddppo_checkpoint: data/pretrained_models/ddppo-models/gibson-2plus-resnet50.pth
+  VISUAL_DIM:
+    vis_hidden: 768
+    directional: 128
+  INSTRUCTION_ENCODER:
+    bidirectional: True

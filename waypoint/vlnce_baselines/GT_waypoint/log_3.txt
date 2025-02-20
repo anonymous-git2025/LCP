@@ -1,0 +1,446 @@
+Total / With edge / Count / Delete number of nodes in 7y3sRwLe3Va: 119 / 116 / 116 / 0 / 0.0
+Total / Count / Delete number of edges in 7y3sRwLe3Va: 340 / 340 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in 5LpN3gDmAk7: 183 / 183 / 183 / 0 / 0.0
+Total / Count / Delete number of edges in 5LpN3gDmAk7: 772 / 770 / 2 / 0.0025906735751295338
+{
+    "5LpN3gDmAk7": [
+        [
+            "0_edge_223_newN_0",
+            "0_edge_223_newN_1"
+        ],
+        [
+            "0_edge_223_newN_1",
+            "0_edge_223_newN_0"
+        ]
+    ]
+}
+Total / With edge / Count / Delete number of nodes in VzqfbhrpDEA: 355 / 354 / 354 / 0 / 0.0
+Total / Count / Delete number of edges in VzqfbhrpDEA: 1170 / 1170 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in cV4RVeZvu5T: 105 / 105 / 105 / 0 / 0.0
+Total / Count / Delete number of edges in cV4RVeZvu5T: 350 / 350 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in jh4fc5c5qoQ: 50 / 50 / 50 / 0 / 0.0
+Total / Count / Delete number of edges in jh4fc5c5qoQ: 162 / 162 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in ur6pFq6Qu1A: 147 / 147 / 147 / 0 / 0.0
+Total / Count / Delete number of edges in ur6pFq6Qu1A: 452 / 452 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in 82sE5b5pLXE: 156 / 152 / 152 / 0 / 0.0
+Total / Count / Delete number of edges in 82sE5b5pLXE: 568 / 568 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in kEZ7cmS4wCh: 279 / 276 / 276 / 0 / 0.0
+Total / Count / Delete number of edges in kEZ7cmS4wCh: 994 / 994 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in EDJbREhghzL: 84 / 84 / 84 / 0 / 0.0
+Total / Count / Delete number of edges in EDJbREhghzL: 270 / 270 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in mJXqzFtmKg4: 211 / 210 / 210 / 0 / 0.0
+Total / Count / Delete number of edges in mJXqzFtmKg4: 774 / 774 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in pRbA3pwrgk9: 126 / 126 / 126 / 0 / 0.0
+Total / Count / Delete number of edges in pRbA3pwrgk9: 416 / 416 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in Vvot9Ly1tCj: 171 / 170 / 170 / 0 / 0.0
+Total / Count / Delete number of edges in Vvot9Ly1tCj: 688 / 688 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in 8WUmhLawc2A: 130 / 130 / 130 / 0 / 0.0
+Total / Count / Delete number of edges in 8WUmhLawc2A: 450 / 450 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in JeFG25nYj2p: 101 / 101 / 101 / 0 / 0.0
+Total / Count / Delete number of edges in JeFG25nYj2p: 334 / 334 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in GdvgFV5R1Z5: 10 / 10 / 10 / 0 / 0.0
+Total / Count / Delete number of edges in GdvgFV5R1Z5: 30 / 30 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in VLzqgDo317F: 202 / 200 / 200 / 0 / 0.0
+Total / Count / Delete number of edges in VLzqgDo317F: 688 / 688 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in E9uDoFAP3SH: 273 / 273 / 273 / 0 / 0.0
+Total / Count / Delete number of edges in E9uDoFAP3SH: 1066 / 1066 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in i5noydFURQK: 74 / 74 / 74 / 0 / 0.0
+Total / Count / Delete number of edges in i5noydFURQK: 220 / 220 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in rPc6DW4iMge: 149 / 149 / 149 / 0 / 0.0
+Total / Count / Delete number of edges in rPc6DW4iMge: 468 / 468 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in aayBHfsNo7d: 107 / 106 / 106 / 0 / 0.0
+Total / Count / Delete number of edges in aayBHfsNo7d: 378 / 378 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in PX4nDJXEHrG: 370 / 366 / 366 / 0 / 0.0
+Total / Count / Delete number of edges in PX4nDJXEHrG: 1320 / 1320 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in 1LXtFkjw3qL: 162 / 162 / 162 / 0 / 0.0
+Total / Count / Delete number of edges in 1LXtFkjw3qL: 536 / 534 / 2 / 0.0037313432835820895
+{
+    "5LpN3gDmAk7": [
+        [
+            "0_edge_223_newN_0",
+            "0_edge_223_newN_1"
+        ],
+        [
+            "0_edge_223_newN_1",
+            "0_edge_223_newN_0"
+        ]
+    ],
+    "1LXtFkjw3qL": [
+        [
+            "3c8c9d438bdd4ebaad5a0d0e93a43c0f",
+            "cc25797eeb974e54ae3f1fc30e0d19ef"
+        ],
+        [
+            "cc25797eeb974e54ae3f1fc30e0d19ef",
+            "3c8c9d438bdd4ebaad5a0d0e93a43c0f"
+        ]
+    ]
+}
+Total / With edge / Count / Delete number of nodes in S9hNv5qa7GM: 137 / 137 / 137 / 0 / 0.0
+Total / Count / Delete number of edges in S9hNv5qa7GM: 466 / 466 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in e9zR4mvMWw7: 108 / 107 / 107 / 0 / 0.0
+Total / Count / Delete number of edges in e9zR4mvMWw7: 310 / 310 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in r1Q1Z4BcV1o: 157 / 156 / 156 / 0 / 0.0
+Total / Count / Delete number of edges in r1Q1Z4BcV1o: 524 / 522 / 2 / 0.003816793893129771
+{
+    "5LpN3gDmAk7": [
+        [
+            "0_edge_223_newN_0",
+            "0_edge_223_newN_1"
+        ],
+        [
+            "0_edge_223_newN_1",
+            "0_edge_223_newN_0"
+        ]
+    ],
+    "1LXtFkjw3qL": [
+        [
+            "3c8c9d438bdd4ebaad5a0d0e93a43c0f",
+            "cc25797eeb974e54ae3f1fc30e0d19ef"
+        ],
+        [
+            "cc25797eeb974e54ae3f1fc30e0d19ef",
+            "3c8c9d438bdd4ebaad5a0d0e93a43c0f"
+        ]
+    ],
+    "r1Q1Z4BcV1o": [
+        [
+            "8be1d794822a4c828b7948f4287dc1c0",
+            "00d3e13abe73496aa6e655afe913ce59"
+        ],
+        [
+            "00d3e13abe73496aa6e655afe913ce59",
+            "8be1d794822a4c828b7948f4287dc1c0"
+        ]
+    ]
+}
+Total / With edge / Count / Delete number of nodes in PuKPg4mmafe: 137 / 132 / 132 / 0 / 0.0
+Total / Count / Delete number of edges in PuKPg4mmafe: 384 / 384 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in VVfe2KiqLaN: 63 / 63 / 63 / 0 / 0.0
+Total / Count / Delete number of edges in VVfe2KiqLaN: 204 / 204 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in ac26ZMwG7aT: 193 / 192 / 192 / 0 / 0.0
+Total / Count / Delete number of edges in ac26ZMwG7aT: 630 / 630 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in 2n8kARJN3HM: 249 / 248 / 248 / 0 / 0.0
+Total / Count / Delete number of edges in 2n8kARJN3HM: 970 / 970 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in qoiz87JEwZ2: 152 / 145 / 145 / 0 / 0.0
+Total / Count / Delete number of edges in qoiz87JEwZ2: 488 / 488 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in JF19kD82Mey: 69 / 66 / 66 / 0 / 0.0
+Total / Count / Delete number of edges in JF19kD82Mey: 168 / 168 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in ZMojNkEp431: 112 / 112 / 112 / 0 / 0.0
+Total / Count / Delete number of edges in ZMojNkEp431: 448 / 448 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in 759xd9YjKW5: 88 / 88 / 88 / 0 / 0.0
+Total / Count / Delete number of edges in 759xd9YjKW5: 238 / 238 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in p5wJjkQkbXX: 204 / 204 / 204 / 0 / 0.0
+Total / Count / Delete number of edges in p5wJjkQkbXX: 626 / 626 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in b8cTxDM8gDG: 145 / 142 / 142 / 0 / 0.0
+Total / Count / Delete number of edges in b8cTxDM8gDG: 408 / 408 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in uNb9QFRL6hY: 299 / 298 / 298 / 0 / 0.0
+Total / Count / Delete number of edges in uNb9QFRL6hY: 956 / 954 / 2 / 0.0020920502092050207
+{
+    "5LpN3gDmAk7": [
+        [
+            "0_edge_223_newN_0",
+            "0_edge_223_newN_1"
+        ],
+        [
+            "0_edge_223_newN_1",
+            "0_edge_223_newN_0"
+        ]
+    ],
+    "1LXtFkjw3qL": [
+        [
+            "3c8c9d438bdd4ebaad5a0d0e93a43c0f",
+            "cc25797eeb974e54ae3f1fc30e0d19ef"
+        ],
+        [
+            "cc25797eeb974e54ae3f1fc30e0d19ef",
+            "3c8c9d438bdd4ebaad5a0d0e93a43c0f"
+        ]
+    ],
+    "r1Q1Z4BcV1o": [
+        [
+            "8be1d794822a4c828b7948f4287dc1c0",
+            "00d3e13abe73496aa6e655afe913ce59"
+        ],
+        [
+            "00d3e13abe73496aa6e655afe913ce59",
+            "8be1d794822a4c828b7948f4287dc1c0"
+        ]
+    ],
+    "uNb9QFRL6hY": [
+        [
+            "068fb0d52d01455c96fa23659c373bf8",
+            "412fc84487ec4099bac76a5c4fe801b9"
+        ],
+        [
+            "412fc84487ec4099bac76a5c4fe801b9",
+            "068fb0d52d01455c96fa23659c373bf8"
+        ]
+    ]
+}
+Total / With edge / Count / Delete number of nodes in Uxmj2M2itWa: 174 / 164 / 164 / 0 / 0.0
+Total / Count / Delete number of edges in Uxmj2M2itWa: 542 / 542 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in 29hnd4uzFmX: 98 / 96 / 96 / 0 / 0.0
+Total / Count / Delete number of edges in 29hnd4uzFmX: 372 / 372 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in sT4fr6TAbpF: 88 / 88 / 88 / 0 / 0.0
+Total / Count / Delete number of edges in sT4fr6TAbpF: 260 / 260 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in 5q7pvUzZiYa: 106 / 106 / 106 / 0 / 0.0
+Total / Count / Delete number of edges in 5q7pvUzZiYa: 320 / 320 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in ULsKaCPVFJR: 92 / 91 / 91 / 0 / 0.0
+Total / Count / Delete number of edges in ULsKaCPVFJR: 268 / 268 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in 1pXnuDYAj8r: 124 / 124 / 124 / 0 / 0.0
+Total / Count / Delete number of edges in 1pXnuDYAj8r: 336 / 334 / 2 / 0.005952380952380952
+{
+    "5LpN3gDmAk7": [
+        [
+            "0_edge_223_newN_0",
+            "0_edge_223_newN_1"
+        ],
+        [
+            "0_edge_223_newN_1",
+            "0_edge_223_newN_0"
+        ]
+    ],
+    "1LXtFkjw3qL": [
+        [
+            "3c8c9d438bdd4ebaad5a0d0e93a43c0f",
+            "cc25797eeb974e54ae3f1fc30e0d19ef"
+        ],
+        [
+            "cc25797eeb974e54ae3f1fc30e0d19ef",
+            "3c8c9d438bdd4ebaad5a0d0e93a43c0f"
+        ]
+    ],
+    "r1Q1Z4BcV1o": [
+        [
+            "8be1d794822a4c828b7948f4287dc1c0",
+            "00d3e13abe73496aa6e655afe913ce59"
+        ],
+        [
+            "00d3e13abe73496aa6e655afe913ce59",
+            "8be1d794822a4c828b7948f4287dc1c0"
+        ]
+    ],
+    "uNb9QFRL6hY": [
+        [
+            "068fb0d52d01455c96fa23659c373bf8",
+            "412fc84487ec4099bac76a5c4fe801b9"
+        ],
+        [
+            "412fc84487ec4099bac76a5c4fe801b9",
+            "068fb0d52d01455c96fa23659c373bf8"
+        ]
+    ],
+    "1pXnuDYAj8r": [
+        [
+            "76ba074e4b7a46feb3d829302db3bd2e",
+            "3ecb492d5019411785bab293ff4f74ee"
+        ],
+        [
+            "3ecb492d5019411785bab293ff4f74ee",
+            "76ba074e4b7a46feb3d829302db3bd2e"
+        ]
+    ]
+}
+Total / With edge / Count / Delete number of nodes in B6ByNegPMKs: 463 / 461 / 461 / 0 / 0.0
+Total / Count / Delete number of edges in B6ByNegPMKs: 1362 / 1362 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in r47D5H71a5s: 82 / 82 / 82 / 0 / 0.0
+Total / Count / Delete number of edges in r47D5H71a5s: 272 / 272 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in D7N2EKCX4Sj: 320 / 318 / 318 / 0 / 0.0
+Total / Count / Delete number of edges in D7N2EKCX4Sj: 1114 / 1114 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in sKLMLpTHeUy: 150 / 150 / 150 / 0 / 0.0
+Total / Count / Delete number of edges in sKLMLpTHeUy: 574 / 574 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in VFuaQ6m2Qom: 204 / 204 / 204 / 0 / 0.0
+Total / Count / Delete number of edges in VFuaQ6m2Qom: 626 / 626 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in vyrNrziPKCB: 464 / 463 / 463 / 0 / 0.0
+Total / Count / Delete number of edges in vyrNrziPKCB: 1644 / 1644 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in SN83YJsR3w2: 326 / 324 / 324 / 0 / 0.0
+Total / Count / Delete number of edges in SN83YJsR3w2: 1052 / 1050 / 2 / 0.0019011406844106464
+{
+    "5LpN3gDmAk7": [
+        [
+            "0_edge_223_newN_0",
+            "0_edge_223_newN_1"
+        ],
+        [
+            "0_edge_223_newN_1",
+            "0_edge_223_newN_0"
+        ]
+    ],
+    "1LXtFkjw3qL": [
+        [
+            "3c8c9d438bdd4ebaad5a0d0e93a43c0f",
+            "cc25797eeb974e54ae3f1fc30e0d19ef"
+        ],
+        [
+            "cc25797eeb974e54ae3f1fc30e0d19ef",
+            "3c8c9d438bdd4ebaad5a0d0e93a43c0f"
+        ]
+    ],
+    "r1Q1Z4BcV1o": [
+        [
+            "8be1d794822a4c828b7948f4287dc1c0",
+            "00d3e13abe73496aa6e655afe913ce59"
+        ],
+        [
+            "00d3e13abe73496aa6e655afe913ce59",
+            "8be1d794822a4c828b7948f4287dc1c0"
+        ]
+    ],
+    "uNb9QFRL6hY": [
+        [
+            "068fb0d52d01455c96fa23659c373bf8",
+            "412fc84487ec4099bac76a5c4fe801b9"
+        ],
+        [
+            "412fc84487ec4099bac76a5c4fe801b9",
+            "068fb0d52d01455c96fa23659c373bf8"
+        ]
+    ],
+    "1pXnuDYAj8r": [
+        [
+            "76ba074e4b7a46feb3d829302db3bd2e",
+            "3ecb492d5019411785bab293ff4f74ee"
+        ],
+        [
+            "3ecb492d5019411785bab293ff4f74ee",
+            "76ba074e4b7a46feb3d829302db3bd2e"
+        ]
+    ],
+    "SN83YJsR3w2": [
+        [
+            "4f4f27a87e4e424d916114f749ea30c7",
+            "d1944c69bc814160a0786756186f0e90"
+        ],
+        [
+            "d1944c69bc814160a0786756186f0e90",
+            "4f4f27a87e4e424d916114f749ea30c7"
+        ]
+    ]
+}
+Total / With edge / Count / Delete number of nodes in D7G3Y4RVNrH: 50 / 50 / 50 / 0 / 0.0
+Total / Count / Delete number of edges in D7G3Y4RVNrH: 136 / 136 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in gTV8FGcVJC9: 341 / 338 / 338 / 0 / 0.0
+Total / Count / Delete number of edges in gTV8FGcVJC9: 994 / 994 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in JmbYfDe2QKZ: 109 / 108 / 108 / 0 / 0.0
+Total / Count / Delete number of edges in JmbYfDe2QKZ: 354 / 354 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in V2XKFyX4ASd: 190 / 189 / 189 / 0 / 0.0
+Total / Count / Delete number of edges in V2XKFyX4ASd: 586 / 586 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in 17DRP5sb8fy: 48 / 48 / 48 / 0 / 0.0
+Total / Count / Delete number of edges in 17DRP5sb8fy: 140 / 140 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in s8pcmisQ38h: 63 / 62 / 62 / 0 / 0.0
+Total / Count / Delete number of edges in s8pcmisQ38h: 160 / 160 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in Pm6F8kyY3z2: 37 / 37 / 37 / 0 / 0.0
+Total / Count / Delete number of edges in Pm6F8kyY3z2: 132 / 132 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in YmJkqBEsHnH: 14 / 14 / 14 / 0 / 0.0
+Total / Count / Delete number of edges in YmJkqBEsHnH: 30 / 30 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in dhjEzFoUFzH: 303 / 302 / 302 / 0 / 0.0
+Total / Count / Delete number of edges in dhjEzFoUFzH: 1122 / 1120 / 2 / 0.0017825311942959
+{
+    "5LpN3gDmAk7": [
+        [
+            "0_edge_223_newN_0",
+            "0_edge_223_newN_1"
+        ],
+        [
+            "0_edge_223_newN_1",
+            "0_edge_223_newN_0"
+        ]
+    ],
+    "1LXtFkjw3qL": [
+        [
+            "3c8c9d438bdd4ebaad5a0d0e93a43c0f",
+            "cc25797eeb974e54ae3f1fc30e0d19ef"
+        ],
+        [
+            "cc25797eeb974e54ae3f1fc30e0d19ef",
+            "3c8c9d438bdd4ebaad5a0d0e93a43c0f"
+        ]
+    ],
+    "r1Q1Z4BcV1o": [
+        [
+            "8be1d794822a4c828b7948f4287dc1c0",
+            "00d3e13abe73496aa6e655afe913ce59"
+        ],
+        [
+            "00d3e13abe73496aa6e655afe913ce59",
+            "8be1d794822a4c828b7948f4287dc1c0"
+        ]
+    ],
+    "uNb9QFRL6hY": [
+        [
+            "068fb0d52d01455c96fa23659c373bf8",
+            "412fc84487ec4099bac76a5c4fe801b9"
+        ],
+        [
+            "412fc84487ec4099bac76a5c4fe801b9",
+            "068fb0d52d01455c96fa23659c373bf8"
+        ]
+    ],
+    "1pXnuDYAj8r": [
+        [
+            "76ba074e4b7a46feb3d829302db3bd2e",
+            "3ecb492d5019411785bab293ff4f74ee"
+        ],
+        [
+            "3ecb492d5019411785bab293ff4f74ee",
+            "76ba074e4b7a46feb3d829302db3bd2e"
+        ]
+    ],
+    "SN83YJsR3w2": [
+        [
+            "4f4f27a87e4e424d916114f749ea30c7",
+            "d1944c69bc814160a0786756186f0e90"
+        ],
+        [
+            "d1944c69bc814160a0786756186f0e90",
+            "4f4f27a87e4e424d916114f749ea30c7"
+        ]
+    ],
+    "dhjEzFoUFzH": [
+        [
+            "2094de1e2c934d9ca603a405739df547",
+            "57675495582049a08d338804d36e72e6"
+        ],
+        [
+            "57675495582049a08d338804d36e72e6",
+            "2094de1e2c934d9ca603a405739df547"
+        ]
+    ]
+}
+Total / With edge / Count / Delete number of nodes in XcA2TqTSSAj: 111 / 84 / 84 / 0 / 0.0
+Total / Count / Delete number of edges in XcA2TqTSSAj: 210 / 210 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in gZ6f7yhEvPG: 10 / 10 / 10 / 0 / 0.0
+Total / Count / Delete number of edges in gZ6f7yhEvPG: 32 / 32 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in HxpKQynjfin: 25 / 21 / 21 / 0 / 0.0
+Total / Count / Delete number of edges in HxpKQynjfin: 60 / 60 / 0 / 0.0
+=======================================
+Total / With edge / Count / Delete number of nodes in train set: 9669 / 9568 / 9568 / 0 / 0.0
+Total / Count / Delete number of edges in train set: 31964 / 31950 / 14 / 0.0004379927418345639
+=======================================
+Total / With edge / Count / Delete number of nodes in zsNo4HB9uLZ: 63 / 63 / 63 / 0 / 0.0
+Total / Count / Delete number of edges in zsNo4HB9uLZ: 178 / 178 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in TbHJrupSAjP: 158 / 158 / 158 / 0 / 0.0
+Total / Count / Delete number of edges in TbHJrupSAjP: 518 / 518 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in x8F5xyUWy9e: 56 / 56 / 56 / 0 / 0.0
+Total / Count / Delete number of edges in x8F5xyUWy9e: 186 / 186 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in 2azQ1b91cZZ: 266 / 265 / 265 / 0 / 0.0
+Total / Count / Delete number of edges in 2azQ1b91cZZ: 1024 / 1024 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in QUCTc6BB5sX: 186 / 184 / 184 / 0 / 0.0
+Total / Count / Delete number of edges in QUCTc6BB5sX: 548 / 548 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in oLBMNvg9in8: 136 / 134 / 134 / 0 / 0.0
+Total / Count / Delete number of edges in oLBMNvg9in8: 372 / 372 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in X7HyMhZNoso: 113 / 113 / 113 / 0 / 0.0
+Total / Count / Delete number of edges in X7HyMhZNoso: 344 / 344 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in EU6Fwq7SyZv: 104 / 104 / 104 / 0 / 0.0
+Total / Count / Delete number of edges in EU6Fwq7SyZv: 358 / 358 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in Z6MFQCViBuw: 63 / 63 / 63 / 0 / 0.0
+Total / Count / Delete number of edges in Z6MFQCViBuw: 190 / 190 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in 8194nk5LbLH: 35 / 35 / 35 / 0 / 0.0
+Total / Count / Delete number of edges in 8194nk5LbLH: 92 / 92 / 0 / 0.0
+Total / With edge / Count / Delete number of nodes in pLe4wQe7qrG: 44 / 44 / 44 / 0 / 0.0
+Total / Count / Delete number of edges in pLe4wQe7qrG: 162 / 162 / 0 / 0.0
+=======================================
+Total / With edge / Count / Delete number of nodes in val_unseen set: 1224 / 1219 / 1219 / 0 / 0.0
+Total / Count / Delete number of edges in val_unseen set: 3972 / 3972 / 0 / 0.0
+=======================================

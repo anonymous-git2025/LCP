@@ -1,0 +1,17 @@
+BASE_TASK_CONFIG_PATH: habitat_extensions/config/vlnce_task.yaml
+EVAL:
+    SPLIT: val_unseen
+    
+    EPISODE_COUNT: 10
+    EVAL_NONLEARNING: True
+    NONLEARNING:
+       
+        AGENT: RandomAgent
+
+INFERENCE:
+    SPLIT: val_unseen
+    PREDICTIONS_FILE: predictions.json
+    INFERENCE_NONLEARNING: True
+    NONLEARNING:
+        
+        AGENT: "RandomAgent"
